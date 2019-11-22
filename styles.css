@@ -27,14 +27,17 @@ nav>ul>li>a:hover{
 body{
     text-align: center;
     font-size: 30px;
-    background-image: url("https://images.pexels.com/photos/3137079/pexels-photo-3137079.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-image: url("https://free4kwallpapers.com/uploads/originals/2015/07/19/dark-black-curved-bloom.jpg");
     background-repeat:repeat;
-    background-size:cover;
+    background-size: contain;
 }
 
 h1{
     padding-top: 100px;
 } 
+h1>b>i{
+    color: rgb(216, 90, 18);
+}
 img{
     border-radius: 20%;
 }
@@ -74,6 +77,13 @@ img{
 .per,.mi, .ed, .vi{
     background-color: dimgray;
 }
-i{
+.hob>ul{
+    
     color: snow;
 }
+h2 >b>i{
+    color: rgb(218, 90, 31);
+}
+i{
+    color: snow;
+}https://free4kwallpapers.com/uploads/wallpaper-cache/dark-black-curved-bloom-400x270-MM-100.jpg
