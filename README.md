@@ -18,7 +18,7 @@
 - To visit the website click on the link(https://github.com/jonahmakori/PORTFOLIO.github.io)
 - To view the code on github click on the link(https://jonahmakori.github.io/PORTFOLIO.github.io/)
 ## project Screenshot
-<img>
+<img src="images/yyy.jpg" >
 -A screenshot of the homepage
 
 
