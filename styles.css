@@ -45,6 +45,9 @@ body{
 h1{
     padding-top: 90px;
     color: whitesmoke;
+    table-layout: auto;
+    text-decoration-color: rgb(121, 69, 1);
+    text-decoration-line: underline;
 } 
 .name{
     color: darkorange;
@@ -112,13 +115,13 @@ h2{
 #rcorners1{
     border-radius: 5px 50px 5px 55px;
 }
-#rconers2{
-    border-radius: 50px 5px 110px;
-}
 .hob>ul>li{
     display: flex;
     flex-direction: column;
     color: snow;
+}
+.hob{
+    background-color: tomato;
 }
 h2 >b>i{
     color: goldenrod;
