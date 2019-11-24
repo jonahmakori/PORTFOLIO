@@ -21,7 +21,6 @@
 <img src="images/yyy.jpg" width="450px" >
 -A screenshot of the homepage
 
-
 ## Technologies Used
 - The coding of this website was based on the following technologies;
 <ul>
