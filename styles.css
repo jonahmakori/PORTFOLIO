@@ -107,6 +107,17 @@ h2{
     color: snow;
     background-color: dimgray;
 }
+.mi:hover{
+    box-shadow: 0 0 10px rgba(75, 4, 241, 0.1),inset 0 0 1px rgba(33, 241, 5, 0.6);
+    background: rgba(240, 97, 40, 0.3);
+    color: whitesmoke;
+}
+.vi:hover{
+    box-shadow: 0 0 10px rgba(75, 4, 241, 0.1),inset 0 0 1px rgba(33, 241, 5, 0.6);
+    background: rgba(240, 97, 40, 0.3);
+    color: whitesmoke;
+}
+
 .per{
     text-align: center;
     background-color: tomato;
