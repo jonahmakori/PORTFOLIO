@@ -39,6 +39,8 @@ body{
 }
 #hme>p{
     padding-top: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
 }
 
 h1{
@@ -47,6 +49,14 @@ h1{
 } 
 img{
     border-radius: 20%;
+}
+.name{
+    color: darkorange;
+}
+p>b>i{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-stretch: expanded;font-size: 70px;
+    color: tomato;
 }
 #aboutme{
     padding-top: 85px;
@@ -66,7 +76,7 @@ h2{
     color: aliceblue;
 }
 #reso{
-    background-image: url("https://images.pexels.com/photos/1450361/pexels-photo-1450361.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-image: url("https://cdn.wallpapersafari.com/81/12/GlS8JF.jpg");
     background-repeat:repeat;
     background-size:cover;
     height: 500px;
@@ -112,7 +122,6 @@ h2{
     display: flex;
     flex-direction: column;
     color: snow;
-
 }
 h2 >b>i{
     color: goldenrod;
@@ -142,9 +151,9 @@ i{
   }
   @keyframes example {
     0%   {background-color: rgba(109, 3, 3, 0.568);}
-    25%  {background-color: rgba(1, 70, 27, 0.952);}
+    25%  {background-color: rgba(1, 53, 63, 0.568);}
     50%  {background-color: rgba(15, 2, 73, 0.568);}
-    100% {background-color: rgba(68, 0, 51, 0.568);}
+    100% {background-color: rgba(65, 3, 49, 0.568);}
    
   }
 
