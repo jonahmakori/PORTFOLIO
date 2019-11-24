@@ -32,7 +32,13 @@ body{
     background-size: contain;
 }
 #hme{
-    display: inline-block;
+    color: snow;
+    display: flex;
+    padding-top: 200px;
+    justify-content: space-evenly;
+}
+#hme>p{
+    padding-top: 200px;
 }
 
 h1{
@@ -89,4 +95,19 @@ h2 >b>i{
 }
 i{
     color: snow;
-}https://free4kwallpapers.com/uploads/wallpaper-cache/dark-black-curved-bloom-400x270-MM-100.jpg
+}
+.ttt{
+    color: whitesmoke;
+}
+.css{
+    color: rgb(2, 2, 2);
+    background-color: white;
+    border-radius: 27%;
+}
+
+#foot ,footer{
+    color: whitesmoke;
+    background-color: darkgray;
+}
+
+https://free4kwallpapers.com/uploads/wallpaper-cache/dark-black-curved-bloom-400x270-MM-100.jpg
