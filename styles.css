@@ -122,7 +122,12 @@ h2{
     background: rgba(240, 97, 40, 0.3);
     color: whitesmoke;
 }
-
+.per{
+    text-align: center;
+    background-color: tomato;
+    border-radius: 300px;
+    color: whitesmoke;
+}
 #rcorners1{
     border-radius: 5px 50px 5px 55px;
 }
