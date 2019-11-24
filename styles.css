@@ -26,7 +26,7 @@ nav>ul>li>a:hover{
 }
 body{
     text-align: center;
-    font-size: 30px;
+    font-size: 35px;
     background-image: url("https://free4kwallpapers.com/uploads/originals/2015/07/19/dark-black-curved-bloom.jpg");
     background-repeat:repeat;
     background-size: contain;
@@ -34,7 +34,6 @@ body{
 #hme{
     color: snow;
     display: flex;
-    padding-top: 200px;
     justify-content: space-evenly;
     padding-bottom: 95px;
 }
@@ -43,11 +42,9 @@ body{
 }
 
 h1{
-    padding-top: 100px;
-} 
-h1>b>i{
+    padding-top: 90px;
     color: rgb(216, 90, 18);
-}
+} 
 img{
     border-radius: 20%;
 }
