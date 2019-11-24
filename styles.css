@@ -72,7 +72,8 @@ h2{
     background-size:cover;
     height: 500px;
     width: 500px;
-    color: snow;
+    color: tomato;
+    font-family: 'Amaranth', sans-serif;
 }
 #reso{
     background-image: url("https://cdn.wallpapersafari.com/81/12/GlS8JF.jpg");
@@ -80,7 +81,7 @@ h2{
     background-size:cover;
     height: 500px;
     width: 500px;
-    color: snow;
+    color: tomato;
 }
 #pet{
     background-image: url("https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
@@ -88,7 +89,7 @@ h2{
     background-size:cover;
     height: 500px;
     width: 500px;
-    color: snow;
+    color: rgb(119, 18, 1);
 }
 .project>ol{
     display: flex;
