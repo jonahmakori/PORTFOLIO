@@ -15,8 +15,8 @@
 - This portfolio was made to showcase the projects that i have done and the skill set i possess.
 - It also gives a brief description of my hobbies and intersts.
 ## Deployment
-- To visit the website click on the link(https://github.com/jonahmakori/PORTFOLIO.github.io)
-- To view the code on github click on the link(https://jonahmakori.github.io/PORTFOLIO.github.io/)
+- To visit the website click on the link(https://jonahmakori.github.io/PORTFOLIO.github.io/)
+- To view the code on github click on the link(https://github.com/jonahmakori/PORTFOLIO.github.io))
 ## project Screenshot
 <img src="images/yyy.jpg" width="450px" >
 -A screenshot of the homepage
