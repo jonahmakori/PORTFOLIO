@@ -172,5 +172,8 @@ i{
     100% {background-color: rgba(65, 3, 49, 0.568);}
    
   }
-
-https://free4kwallpapers.com/uploads/wallpaper-cache/dark-black-curved-bloom-400x270-MM-100.jpg
+  @media screen and (max-width:480px){
+      .key{
+          width: 120vh;
+      }
+  }
